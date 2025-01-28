@@ -7,10 +7,11 @@ body {
 ul {
     list-style-type: none;
     padding: 0;
+    background-color: #49000028;
 }
 
 li {
-    background: #f4f4f4;
+    background: #00000063;
     margin: 10px auto;
     padding: 10px;
     border-radius: 5px;
@@ -20,4 +21,5 @@ li {
 
 h1 {
     color: #333;
+    background-color: #49000028;
 }
